@@ -10,7 +10,6 @@
 ├── deepar_modelling.py
 ├── feature_engineering.py
 ├── df_scaled.csv
-├── video_presentation.pdf
 └── output
     ├── CPU_cap_under_1mo.png
     ├── ac_cpu_usage.png
