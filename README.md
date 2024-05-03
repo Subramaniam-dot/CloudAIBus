@@ -1,4 +1,4 @@
-# DeepAR based Resource Recommendation Framework for Cloud Computing Systems
+# CloudAIBus: A Testbed for AI based Cloud Computing Environments
 
 ### Directory Structure
 
