@@ -9,9 +9,7 @@
   <a>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-repo%2FCloudAIBus&count_bg=%23FFC401&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
   </a>
-  <a href="https://github.com/your-repo/CloudAIBus/actions">
-    <img src="https://github.com/your-repo/CloudAIBus/workflows/CI/badge.svg" alt="Actions Status">
-  </a>
+  
   <a href="https://doi.org/10.1007/s10586-024-04562-9">
     <img src="https://img.shields.io/badge/DOI-10.1007%2Fs10586-024-04562-9-green.svg" alt="DOI">
   </a>
