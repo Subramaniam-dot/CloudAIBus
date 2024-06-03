@@ -1,4 +1,26 @@
-# CloudAIBus: A Testbed for AI based Cloud Computing Environments
+<h1 align="center">CloudAIBus Framework</h1>
+<div align="center">
+  <a href="https://github.com/your-repo/CloudAIBus/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-BSD%203--Clause-red.svg" alt="License">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8-blue.svg" alt="Python 3.7, 3.8">
+  </a>
+  <a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-repo%2FCloudAIBus&count_bg=%23FFC401&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  </a>
+  <a href="https://github.com/your-repo/CloudAIBus/actions">
+    <img src="https://github.com/your-repo/CloudAIBus/workflows/CI/badge.svg" alt="Actions Status">
+  </a>
+  <a href="https://doi.org/10.1007/s10586-024-04562-9">
+    <img src="https://img.shields.io/badge/DOI-10.1007%2Fs10586-024-04562-9-green.svg" alt="DOI">
+  </a>
+</div>
+
+CloudAIBus is an AI-based testbed for cloud computing environments, focusing on effective resource allocation using deep learning models. The framework leverages the DeepAR model for robust CPU usage forecasting to make cost-effective resource allocation decisions. It was evaluated using Google Colab and AWS SageMaker, showing superior performance compared to LSTM and ARIMA-based models in terms of MAE, MAPE, and MSE.
+
+<!-- <img src="https://github.com/your-repo/CloudAIBus/blob/master/wiki/CloudAIBus.jpg" width="900" align="middle"> -->
+
 
 ### Directory Structure
 
