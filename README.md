@@ -1,7 +1,7 @@
 <h1 align="center">CloudAIBus Framework</h1>
 <div align="center">
   <a href="https://github.com/your-repo/CloudAIBus/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD%203--Clause-red.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-red.svg" alt="License">
   </a>
   <a>
     <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8-blue.svg" alt="Python 3.7, 3.8">
