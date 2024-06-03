@@ -20,6 +20,7 @@ CloudAIBus is an AI-based testbed for cloud computing environments, focusing on 
 
 <img src="https://github.com/Subramaniam-dot/CloudAIBus/blob/master/system_model.jpg" width="900" align="middle">
 <!-- <img src="https://github.com/your-repo/CloudAIBus/blob/master/wiki/CloudAIBus.jpg" width="900" align="middle"> -->
+
 ## Advantages of CloudAIBus
 1. Efficient development of AI-based resource allocation algorithms.
 2. Seamless integration of predictive models with cloud infrastructure.
