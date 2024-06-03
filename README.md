@@ -11,7 +11,8 @@
   </a>
   
   <a href="https://doi.org/10.1007/s10586-024-04562-9">
-    <img src="https://img.shields.io/badge/DOI-10.1007%2Fs10586-024-04562-9-green.svg" alt="DOI">
+    <img src="https://img.shields.io/badge/DOI-10.1007%2Fs10586--024--04562--9-green.svg" alt="DOI">
+  
   </a>
 </div>
 
