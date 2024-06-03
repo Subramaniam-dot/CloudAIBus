@@ -18,7 +18,12 @@
 CloudAIBus is an AI-based testbed for cloud computing environments, focusing on effective resource allocation using deep learning models. The framework leverages the DeepAR model for robust CPU usage forecasting to make cost-effective resource allocation decisions. It was evaluated using Google Colab and AWS SageMaker, showing superior performance compared to LSTM and ARIMA-based models in terms of MAE, MAPE, and MSE.
 
 <!-- <img src="https://github.com/your-repo/CloudAIBus/blob/master/wiki/CloudAIBus.jpg" width="900" align="middle"> -->
-
+## Advantages of CloudAIBus
+1. Efficient development of AI-based resource allocation algorithms.
+2. Seamless integration of predictive models with cloud infrastructure.
+3. Supports dynamic scaling and adaptation to changing workloads.
+4. Multiple deployment options including Google Colab and AWS SageMaker.
+5. Real-time monitoring and logging of resource utilization metrics.
 
 ### Directory Structure
 
