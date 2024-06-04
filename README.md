@@ -28,9 +28,9 @@ CloudAIBus is an AI-based testbed for cloud computing environments, focusing on 
 4. Multiple deployment options including Google Colab and AWS SageMaker.
 5. Real-time monitoring and logging of resource utilization metrics.
 
-For a detailed video tutorial, you can watch the embedded video below:
+For a detailed video tutorial, you can watch the video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmlUbkVrNio" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/EmlUbkVrNio/maxresdefault.jpg)](https://youtu.be/EmlUbkVrNio)
 
 ### Directory Structure
 
