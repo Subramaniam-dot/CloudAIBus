@@ -271,7 +271,7 @@ Make sure to replace `baseline_lstm.py` with the actual name of the script.
 
 
 ## Cite this work
-Our work is published in IEEE TPDS journal. Cite using the following bibtex entry.
+Our work is published in Springer Link Cluster Computing journal. Cite using the following bibtex entry.
 ```bibtex
 @article{cloudAIBus2024,
   author    = {Sasidharan Velu and Sukhpal Singh Gill and Subramaniam Subramanian Murugesan and Huaming Wu and Xingwang Li},
@@ -284,3 +284,9 @@ Our work is published in IEEE TPDS journal. Cite using the following bibtex entr
 }
 
 ```
+
+## License
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
+
+
