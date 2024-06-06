@@ -265,9 +265,7 @@ Make sure to replace `baseline_lstm.py` with the actual name of the script.
 
 
 
-### Contributors:
-1. [Sasidharan V](https://github.com/sasidharan01)
-2. [Subramaniam Subramanian Murugesan](https://github.com/Subramaniam-dot)
+
 
 
 ## Cite this work
