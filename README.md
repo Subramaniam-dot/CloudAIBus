@@ -268,3 +268,19 @@ Make sure to replace `baseline_lstm.py` with the actual name of the script.
 ### Contributors:
 1. [Sasidharan V](https://github.com/sasidharan01)
 2. [Subramaniam Subramanian Murugesan](https://github.com/Subramaniam-dot)
+
+
+## Cite this work
+Our work is published in IEEE TPDS journal. Cite using the following bibtex entry.
+```bibtex
+@article{cloudAIBus2024,
+  author    = {Sasidharan Velu and Sukhpal Singh Gill and Subramaniam Subramanian Murugesan and Huaming Wu and Xingwang Li},
+  title     = {CloudAIBus: A Testbed for AI based Cloud Computing Environments},
+  journal   = {Cluster Computing},
+  year      = {2024},
+  publisher = {Springer},
+  doi       = {10.1007/s10586-024-04562-9},
+  url       = {https://doi.org/10.1007/s10586-024-04562-9}
+}
+
+```
